@@ -1157,6 +1157,8 @@
         "spm_id_from",
         "from_source",
         "from",
+        "keyword",
+        "search_source",
         "seid",
         "mid",
         "share_source",
