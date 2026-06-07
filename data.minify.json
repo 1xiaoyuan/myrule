@@ -1157,8 +1157,6 @@
         "spm_id_from",
         "from_source",
         "from",
-        "keyword",
-        "search_source",
         "seid",
         "mid",
         "share_source",
@@ -1181,6 +1179,14 @@
       "exceptions": [
         "^https?:\\/\\/api\\.bilibili\\.com",
         "^https?:\\/\\/space\\.bilibili\\.com"
+      ]
+    },
+    "search.bilibili.com": {
+      "urlPattern": "^https?:\\/\\/search\\.bilibili\\.com",
+      "rules": [
+        "keyword",
+        "search_source",
+        "vt"
       ]
     },
     "space.bilibili.com": {
