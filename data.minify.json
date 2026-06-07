@@ -1182,7 +1182,7 @@
       ]
     },
     "search.bilibili.com": {
-      "urlPattern": "^https?:\\/\\/search\\.bilibili\\.com",
+      "urlPattern": "^https?:\\/\\/search\\.bilibili\\.com\\/all",
       "rules": [
         "keyword",
         "search_source",
